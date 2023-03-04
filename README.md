@@ -1,4 +1,4 @@
 # Template
 
 Trabalho do IFAL - ADMINISTRAÇÃO DE SERVIÇOS WEB.
-- Modificações em um Templete de um site pelo freecodecamp.org.
+- Modificação de um Template pelo FREE CSS.
